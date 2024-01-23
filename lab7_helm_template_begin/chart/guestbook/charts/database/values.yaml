@@ -1,0 +1,11 @@
+replicaCount: 1
+service:
+  port: 27017
+mongoDb:
+  username: "YWRtaW4="
+  password: "cGFzc3dvcmQ="
+volume:
+  capacity:
+    storage: 100Mi
+  requests:
+    storage: 100Mi
