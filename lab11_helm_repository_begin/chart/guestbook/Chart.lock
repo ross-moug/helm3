@@ -5,8 +5,8 @@ dependencies:
 - name: frontend
   repository: http://localhost:8080
   version: 1.2.2
-- name: database
-  repository: http://localhost:8080
-  version: 1.2.2
-digest: sha256:6a58a52c55ee4296ec43ffe1985ec1147186025c4d9724bcbe5c5354a13df635
-generated: "2020-02-27T12:16:00.991397779+01:00"
+- name: mongodb
+  repository: https://charts.helm.sh/stable
+  version: 7.8.4
+digest: sha256:cad9e79e51338845229bb980ee3e5d9346cfdce8bd485a3a8dce5caf0f98b2b9
+generated: "2024-01-25T11:04:00.217978Z"
